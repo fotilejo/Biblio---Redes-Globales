@@ -16,3 +16,6 @@ img {
   border: 4px solid;
 }
   
+.borde-rojo {
+  border: 5px solid rgba(224, 2, 2, 0.897);
+}
